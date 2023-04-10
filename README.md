@@ -1,1 +1,1 @@
-# Trilha JS Developer - Pokedex
+# Potência Tech Angular Developer - Powered by iFood
